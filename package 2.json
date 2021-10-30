@@ -1,7 +1,7 @@
 {
-  "name": "employee-tracker",
+  "name": "employee_tracker",
   "version": "1.0.0",
-  "description": "express mysql2 dotenv",
+  "description": "test app",
   "main": "server.js",
   "dependencies": {
     "dotenv": "^10.0.0",
@@ -12,17 +12,15 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "test",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JoeyDela/joeyd_wk12.git"
   },
-  "keywords": [
-    "test"
-  ],
-  "author": "joey",
+  "keywords": ["test"],
+  "author": "me",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JoeyDela/joeyd_wk12/issues"
